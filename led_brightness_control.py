@@ -1,7 +1,6 @@
 import RPi.GPIO as GPIO
 from time import sleep
 import time
-dt=.1
 b1=40
 b2=38
 LED=37
